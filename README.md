@@ -46,13 +46,7 @@ FFmpeg
 
 yt-dlp
 
-Installation
-Clone the repository
 
-bash
-git clone https://github.com/Naitik-thakur24/AI-Video-Assistant.git
-cd AI-Video-Assistant
-Install dependencies
 
 bash
 pip install -r requirements.txt
@@ -71,7 +65,7 @@ The backend URL is configured to run on Render (production). For local developme
 
 python
 # Change from render.com to localhost for development
-BACKEND_URL = "http://localhost:8000"
+URL = https://ai-video-assistant-main-cjv7wrgr5d2sqvvvr9tpma.streamlit.app/
 🤝 Contributing
 Contributions are welcome! Feel free to:
 
@@ -91,9 +85,6 @@ Watchers: 0
 Latest Commit: June 15, 2026
 
 Language: Python 100%
-
-👨‍💻 Author
-Naitik-thakur24
 
 📄 License
 This project is open source. Check the repository for license details.
